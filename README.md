@@ -1,1 +1,1 @@
-# SmithWaterman-algorithm
+# Smith Waterman algorithm
