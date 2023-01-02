@@ -1,0 +1,5 @@
+ACACACTA
+AGCACACA
++1
+-1
+-2
